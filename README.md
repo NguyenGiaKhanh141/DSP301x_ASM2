@@ -1,4 +1,4 @@
-## DSP301x_ASM2
+## Test Grade Calculator
 
 ### Project Name: Assignment 2: Tính toán và phân tích điểm thi (Test Grade Calculator)
 ### Author: Nguyễn Gia Khánh
