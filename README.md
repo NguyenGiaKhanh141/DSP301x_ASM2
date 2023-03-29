@@ -1,6 +1,6 @@
 ## Test Grade Calculator
 
-### Project Name: Assignment 2: Tính toán và phân tích điểm thi (Test Grade Calculator)
+### Project Name: Assignment 2: Test Grade Calculator
 ### Author: Nguyễn Gia Khánh
 ### Description: Auto caculate grades and analyse each class information 
 ### How to run code:  python  Nguyen_GiaKhanh_grade_the_exams.py
